@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, This is Hussain Abid 👋
 
-<!--
-**hussain-abid/hussain-abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am  tech enthusiast, Full Stack Web Developer & UI Designer. You can find me either [writing blog posts](https://impulsivecode.com) around web developement, UI Design or eating. 
 
-Here are some ideas to get you started:
+- 💬 Ask me about Web Developement, UI Design, Freelancing & Productivity
+- 📚 Love reading books on productivity, self-improvement & business. One of my favorite Book is Rich Dad Poor Dad. 
+- 📫 How to reach me: [support@impulsivecode.com](mailto:support@impulsivecode.com)
+- 😄 Pronouns: Ofcourse He/His
+- ⚡ Fun fact: You cannot beat me in awkward dance
+- 💖 When I am not coding, you will find me eating
+- 🔭 Love to help and collaborate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Lastest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Add, Edit And Delete Categories In WordPress?](https://impulsivecode.com/add-edit-and-delete-categories-in-wordpress/)
+- [How to set Timezone in Laravel 8](https://impulsivecode.com/how-to-set-timezone-in-laravel-8/)
+- [Laravel 8 pagination Example with Bootstrap 4](https://impulsivecode.com/laravel-8-pagination-example-with-bootstrap-4/)
+
+<!-- BLOG-POST-LIST:END -->
