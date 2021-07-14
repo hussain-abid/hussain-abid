@@ -1,12 +1,12 @@
 ### Hi there, This is Hussain Abid 👋
 
-I am  tech enthusiast, Full Stack Web Developer & UI Designer. You can find me either [writing blog posts](https://impulsivecode.com) around web developement, UI Design or eating. 
+I am a Tech Enthusiast, Full Stack Web Developer & UI Designer. You can find me either [writing blog posts](https://impulsivecode.com) around web development, UI Design or eating. 
 
-- 💬 Ask me about Web Developement, UI Design, Freelancing & Productivity
+- 💬 Ask me about Web Development, UI Design, Freelancing & Productivity
 - 📚 Love reading books on productivity, self-improvement & business. One of my favorite Book is Rich Dad Poor Dad. 
 - 📫 How to reach me: [support@impulsivecode.com](mailto:support@impulsivecode.com)
 - 😄 Pronouns: Ofcourse He/His
-- ⚡ Fun fact: You cannot beat me in awkward dance
+- ⚡ Fun fact: You cannot beat me in an awkward dance
 - 💖 When I am not coding, you will find me eating
 - 🔭 Love to help and collaborate 
 
